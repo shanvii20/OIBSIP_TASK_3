@@ -181,10 +181,3 @@ if (prediction[0]==1):
 
 else:
   print('Spam mail')
-
-
-# In[ ]:
-
-
-
-
